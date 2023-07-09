@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "typescript": "^5.1.6"
+  },
+  "name": "plain",
+  "version": "0.0.1",
+  "description": "cards on ts",
+  "main": "index.js",
+  "type": "module",
+  "author": "psihioga",
+  "license": "MIT"
+}
