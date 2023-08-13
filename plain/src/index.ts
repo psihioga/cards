@@ -1,3 +1,5 @@
-import * as fs from 'fs';
+import { mainCard } from "./card.tsx";
 
-fs;
+
+mainCard();
+console.log("index");
